@@ -39,7 +39,7 @@ h3 {
 
 h4 {
   color: #00ed82;
-  font-size: 13px;
+  font-size: 18px;
   text-transform: uppercase;
 }
 
@@ -135,6 +135,7 @@ h4 {
 }
 
 .header .header-content {
+  font-size: px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -148,7 +149,7 @@ h4 {
 }
 
 .header .header-text-2 {
-  font-size: 18px;
+  font-size: 13px;
   margin: 25px 0;
 }
 
